@@ -1,4 +1,4 @@
-# Random-Password-Generator-Malaysia
+# Password-Generator
 Command :
 
 cd Random-Password-Generator-Malaysia
