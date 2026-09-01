@@ -28,9 +28,9 @@ The program also includes a simple terminal loading animation for a more interac
 ## 📸 Preview
 
 ```text
-Selamat Datang Ke Random Password Generator By aminzikryy
+Selamat Datang Ke Random Password Generator By ApamBalik1337
 
-Nak Berapa Panjang Password nya? 12
+How Long? 12
 
 Loading:
 [■■■■■■■■■■]
