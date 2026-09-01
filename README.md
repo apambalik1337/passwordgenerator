@@ -28,7 +28,7 @@ The program also includes a simple terminal loading animation for a more interac
 ## 📸 Preview
 
 ```text
-Selamat Datang Ke Random Password Generator By ApamBalik1337
+Welcome to Password Generator By ApamBalik1337
 
 How Long? 12
 
@@ -91,7 +91,7 @@ python main.py
 When you run the program, you will be asked:
 
 ```text
-Nak Berapa Panjang Password nya?
+How long?
 ```
 
 Enter the desired password length.
@@ -99,7 +99,7 @@ Enter the desired password length.
 Example:
 
 ```text
-Nak Berapa Panjang Password nya? 16
+How long? 16
 ```
 
 The program will generate a random password automatically.
