@@ -5,17 +5,8 @@ import string
 import sys
 import time
 
-banner=""" 
- \033[94m __ _ _ __ ___ (_)_ __ \033[91m ___(_) | ___ __ _   _ _   _ 
-\033[94m / _` | '_ ` _ \| | '_  \033[91m|_  / | |/ / '__| | | | | | |
-\033[94m| (_| | | | | | | | | | \033[91m|/ /| |   <| |  | |_| | |_| |
-\033[94m \__,_|_| |_| |_|_|_| |_\033[91m/___|_|_|\_\_|   \__, |\__, |
- \033[94m                       \033[91m                |___/ |___/  
- \033[0m                                                """
-print(banner)
-
-print('Selamat Datang Ke Random Password Generator By aminzikryy')
-length = int(input('\nNak Berapa Panjang Password nya? '))
+print('Selamat Datang Ke Random Password Generator By ApamBalik1337')
+length = int(input('\nHow Long? '))
 
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
