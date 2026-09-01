@@ -5,7 +5,7 @@ import string
 import sys
 import time
 
-print('Selamat Datang Ke Random Password Generator By ApamBalik1337')
+print('Welcome To Random Password Generator By ApamBalik1337')
 length = int(input('\nHow Long? '))
 
 lower = "abcdefghijklmnopqrstuvwxyz"
